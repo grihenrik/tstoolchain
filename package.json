@@ -1,0 +1,21 @@
+{
+  "name": "greeterts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrik Gripenberg",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.4000",
+    "typescript-cli": "^0.1.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "dependencies": {}
+}
